@@ -17,10 +17,15 @@ _A collection of resources related to centrism._
 ## Podcasts
 * [The Ragin' Moderate Podcast](https://theraginmoderate.com/) - "In Times Of Knee-Jerk Hyperpartisanship, To Be A Moderate Is A Radical Act."
 
+## Notable Centrists
+* [Ross Perot](https://en.wikipedia.org/wiki/Ross_Perot)
 
 ## Fictional Characters
 ### TV
 * Odo - _Star Trek: Deep Space Nine_
+
+## Critiques of Centrism
+* [The Third Way is a Death Trap](https://jacobinmag.com/2018/08/centrism-democratic-party-lieberman-ocasio-cortez) - John Patrick Leary - 2018
 
 ## Quotations
 
@@ -32,4 +37,8 @@ _A collection of resources related to centrism._
 >  
 >So essential is this discipline to a real understanding of moral and human subjects, that **if opponents of all important truths do not exist, it is indispensable to imagine them, and supply them with the strongest arguments which the most skillful devil's advocate can conjure up.**
 
-John Stuart Mill, "On Liberty"
+— John Stuart Mill, _On Liberty_
+
+> There is nothing I dread so much, as a division of the Republic into two great Parties, each arranged under its leader and concerting measures in opposition to each other. This in my humble apprehension is to be dreaded as the greatest political evil under our Constitution.
+
+— John Adams, _Letter to Jonathan Jackson_, 2 Oct 1780
