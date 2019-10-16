@@ -18,7 +18,7 @@ _A collection of resources related to centrism._
 * [The Ragin' Moderate Podcast](https://theraginmoderate.com/) - "In Times Of Knee-Jerk Hyperpartisanship, To Be A Moderate Is A Radical Act."
 
 ## Articles
-* [What Teaching Ethics in Appalachia Taught Me About Bridging America’s Partisan Divide](https://www.politico.com/magazine/story/2019/10/13/america-cultural-divide-red-state-blue-state-228111)
+* [What Teaching Ethics in Appalachia Taught Me About Bridging America’s Partisan Divide](https://www.politico.com/magazine/story/2019/10/13/america-cultural-divide-red-state-blue-state-228111) - Evan Mandery - 13 Oct 2019
 
 ## Notable Centrists
 * [Ross Perot](https://en.wikipedia.org/wiki/Ross_Perot)
