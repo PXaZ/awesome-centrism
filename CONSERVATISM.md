@@ -15,3 +15,8 @@ Go away and think.  Then, when you can come back and tell me that you
 do see the use of it, I may allow you to destroy it."
 
 ---G. K. Chesterton, _The Thing_, 1929
+
+
+## Books
+
+* [Conservatism: An Invitation to the Great Tradition](https://www.amazon.com/Conservatism-Invitation-Tradition-Roger-Scruton/dp/1250170567) by Sir Roger Scruton
