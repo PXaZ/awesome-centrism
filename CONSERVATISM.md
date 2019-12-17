@@ -1,7 +1,12 @@
 # Conservatism
 _As explained by conservatives._
 
-## Chesterton's Fence
+## Aphorisms
+* If it ain't broke, don't fix it
+
+## Metaphors
+
+### Chesterton's Fence
 
 > In the matter of reforming things, as distinct from deforming them,
 there is one plain and simple principle; a principle which will probably
