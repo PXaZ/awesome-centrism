@@ -19,4 +19,5 @@ do see the use of it, I may allow you to destroy it."
 
 ## Books
 
-* [Conservatism: An Invitation to the Great Tradition](https://www.amazon.com/Conservatism-Invitation-Tradition-Roger-Scruton/dp/1250170567) by Sir Roger Scruton
+* [Ideas Have Consequences](https://www.amazon.com/Ideas-Have-Consequences-Richard-Weaver/dp/022609006X) - Richard Weaver - 1948
+* [Conservatism: An Invitation to the Great Tradition](https://www.amazon.com/Conservatism-Invitation-Tradition-Roger-Scruton/dp/1250170567) - Sir Roger Scruton - 2018
