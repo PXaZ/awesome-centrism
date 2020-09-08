@@ -20,6 +20,9 @@ _A collection of resources related to centrism._
 ## Articles
 * [What Teaching Ethics in Appalachia Taught Me About Bridging America’s Partisan Divide](https://www.politico.com/magazine/story/2019/10/13/america-cultural-divide-red-state-blue-state-228111) - Evan Mandery - 13 Oct 2019
 
+## Television Episodes
+* The West Wing, Season 2, Episode 4 "In This Whitehouse"
+
 ## Notable Centrists
 * [Ross Perot](https://en.wikipedia.org/wiki/Ross_Perot)
 
