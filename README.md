@@ -35,7 +35,11 @@ _A collection of resources related to centrism._
 
 ## Quotations
 
-> Alle Dinge sind Gift, und nichts ist ohne Gift, allein die Dosis macht dass ein Ding kein Gift ist. \[All things are poison, and nothing is without poison, the dosage alone makes it so a thing is not a poison.\]---Parcelsus, "[Die dritte Defension wegen des Schreibens der neuen Rezepte](http://www.zeno.org/Philosophie/M/Paracelsus/Septem+Defensiones/Die+dritte+Defension+wegen+des+Schreibens+der+neuen+Rezepte)," Septem Defensiones 1538. Werke Bd. 2, Darmstadt 1965, p. 510. In other words: [The dose makes the poison](https://en.wikipedia.org/wiki/The_dose_makes_the_poison).
+> All things are poison, and nothing is without poison, the dosage alone makes it so a thing is not a poison. \[Alle Dinge sind Gift, und nichts ist ohne Gift, allein die Dosis macht dass ein Ding kein Gift ist.\]
+
+In other words: "[The dose makes the poison](https://en.wikipedia.org/wiki/The_dose_makes_the_poison)"
+
+— Paracelsus, "[Die dritte Defension wegen des Schreibens der neuen Rezepte](http://www.zeno.org/Philosophie/M/Paracelsus/Septem+Defensiones/Die+dritte+Defension+wegen+des+Schreibens+der+neuen+Rezepte)," Septem Defensiones 1538. Werke Bd. 2, Darmstadt 1965, p. 510.
 
 >He who knows only his own side of the case, knows little of that. His reasons may be good, and no one may have been able to refute them. But if he is equally unable to refute the reasons on the opposite side; if he does not so much as know what they are, he has no ground for preferring either opinion. The rational position for him would be suspension of judgment, and unless he contents himself with that, he is either led by authority, or adopts, like the generality of the world, the side to which he feels most inclination.  
 >  
