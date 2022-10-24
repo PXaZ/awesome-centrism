@@ -70,4 +70,4 @@ In other words: "[The dose makes the poison](https://en.wikipedia.org/wiki/The_d
 >
 > That being the case, a second aspect of translation, long familiar to both historians and linguists, becomes crucially important. To translate a theory or worldview into one's own language is not to make it one's own. For that one must go native, discover that one is thinking and working in, not simply translating out of, a language that was previously foreign. That transition is not, however, one that an individual may make or refrain from making by deliberation and choice, however good his reasons for wishing to do so. Instead, at some point in the process of learning to translate, he finds that the transition has occurred, that he has slipped into the new language without a decision having been made.
 
-— Thomas S. Kuhn, _The Structure of Scientific Revolutions_, "Postscript" section 5, 1969
+— Thomas S. Kuhn, _The Structure of Scientific Revolutions_, "Postscript", section 5, 1969
